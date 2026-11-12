@@ -1,0 +1,6 @@
+C:\Users\1212-13\Downloads\UserControl\UserControl\bin\Debug\UserControl.exe
+C:\Users\1212-13\Downloads\UserControl\UserControl\bin\Debug\UserControl.pdb
+C:\Users\1212-13\Downloads\UserControl\UserControl\obj\Debug\UserControl.csproj.AssemblyReference.cache
+C:\Users\1212-13\Downloads\UserControl\UserControl\obj\Debug\UserControl.csproj.CoreCompileInputs.cache
+C:\Users\1212-13\Downloads\UserControl\UserControl\obj\Debug\UserControl.exe
+C:\Users\1212-13\Downloads\UserControl\UserControl\obj\Debug\UserControl.pdb
